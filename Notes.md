@@ -60,6 +60,46 @@ See the relation between border, margin and padding.
 ### CSS
 ![image](https://github.com/user-attachments/assets/4ee1d96e-3a9c-4d7e-9aed-7e8f18c15330)
 
+## Backgrounds
+![image](https://github.com/user-attachments/assets/0bc5afc1-2b9c-461b-aebe-2b16d75362ba)
+
+## Margins
+Margin is the space around an element. This is outsude the element/border.
+Padding is the space between the element border and the content. 
+### HTML
+![image](https://github.com/user-attachments/assets/a6d0e203-f37b-4543-911c-1be0e6b8ca3e)
+
+### CSS
+![image](https://github.com/user-attachments/assets/d39be2d3-7dff-4eae-ab79-3cd490669558)
+
+### Viewport
+![image](https://github.com/user-attachments/assets/e0d5120a-fb59-4682-8c87-46ca5bd284e7)
+
+## Float
+### HTML
+![image](https://github.com/user-attachments/assets/8a41a29c-ba97-4f13-b978-917f3b02c0ff)
+
+### Without Float
+![image](https://github.com/user-attachments/assets/db235a37-9c8c-477a-aaf8-698118bb29d4)
+
+### With float: left
+![image](https://github.com/user-attachments/assets/dc2dae02-b1f7-4729-93d3-416838ca41ca)
+
+### With float: right
+![image](https://github.com/user-attachments/assets/63b00f1b-5134-4895-871e-4d923eabc51d)
+
+### CSS
+![image](https://github.com/user-attachments/assets/d28aeb53-30c8-4368-947c-8d3e69f3f5c6)
+
+
+
+
+
+
+
+
+
+
 
 
 
