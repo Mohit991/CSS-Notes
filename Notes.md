@@ -91,14 +91,39 @@ Padding is the space between the element border and the content.
 ### CSS
 ![image](https://github.com/user-attachments/assets/d28aeb53-30c8-4368-947c-8d3e69f3f5c6)
 
+## Pseudo Classes
+Pseudo Classes are applied to element when they are in a special state.
+For example, when you hover over a button, or click it or more.<br>
+### HTML
+![image](https://github.com/user-attachments/assets/5c08add2-68b5-434f-b8f9-174c329447c4)
 
+### CSS
+![image](https://github.com/user-attachments/assets/7b00af65-9a10-4cc4-95b1-74e5a9842ad3)
 
+## Shadows
+### HTML
+![image](https://github.com/user-attachments/assets/645a059d-4c75-462f-8439-d818de24e7e2)
 
+### CSS
+![image](https://github.com/user-attachments/assets/62f32275-7208-42f9-98d6-e45fc1cf23a0)
 
+### Output
+![image](https://github.com/user-attachments/assets/5a077445-4ee9-47fa-ba36-bfda8de7fb72)
 
+## Icons
+We can use `https://fontawesome.com/` for free and good icons.  
+### HTML
+![image](https://github.com/user-attachments/assets/2591727c-a26e-4a69-80f6-5490ae176297)
 
+### CSS
+![image](https://github.com/user-attachments/assets/84213ba6-9896-43b3-ab44-44f8db59b8e7)
 
+## Transform
+### HTML
+![image](https://github.com/user-attachments/assets/d1a737c3-4f73-499e-a438-0d73e343eedb)
 
+### CSS
+![image](https://github.com/user-attachments/assets/14a7be84-2629-4f0c-a58a-3ca3c07876d6)
 
 
 
