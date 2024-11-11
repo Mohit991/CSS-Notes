@@ -1,0 +1,22 @@
+/* Applying styles using tag name */
+body {
+    background-color: aqua;
+}
+h1 {
+    color: blueviolet;
+    background-color: gold;
+}
+
+/* Applying styles using class */
+.para-styles {
+    background-color: red;
+}
+.header-styles {
+    color: blueviolet;
+    background-color: purple;
+}
+
+/* Applying styles using id */
+#newP {
+    background-color: greenyellow;
+}

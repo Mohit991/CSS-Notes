@@ -1,0 +1,5 @@
+img {
+    /* images will be taken out of the normal flow and moved to whatever we mention */
+    /* other elements will wrap around them. */
+    float: right;
+}

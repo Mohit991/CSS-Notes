@@ -1,0 +1,55 @@
+#box1 {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    font-size: 225px;
+    text-align: center;
+
+    /* Setting the animation */
+    animation: mySlide;
+    /* The element will move from start to end in this period */
+    /* This is basically the speed of the animation */
+    animation-duration: 5s;
+    /* How many times we want the animation to repeat */
+    animation-iteration-count: infinite;
+    /* How many seconds after the anmation should start */
+    animation-delay: 0s;
+    /* How animation happens, it starts slow then accelerates or the opposite */
+    animation-timing-function: ease-in;
+
+    /* shorthand */
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+
+    animation: myRotate 5s;
+}
+
+/* creating the slide animation */
+@keyframes mySlide {
+    /* from = where to start */
+    from {
+        /* start from when margin left is 100% */
+        margin-left: 100%;
+    }
+    /* to = where to end */
+    to {
+        /* end at when margin left is 100% */
+        margin-left: 0%;
+    }
+}
+
+/* creating the rotate animation */
+@keyframes myRotate {
+    /* from = where to start */
+    from {
+        transform: rotate(0deg);
+    }
+    /* to = where to end */
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* placing animation in a psuedo class */
+#box1:hover {
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+}

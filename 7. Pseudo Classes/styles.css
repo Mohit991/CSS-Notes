@@ -1,0 +1,22 @@
+/* element:hover_class { } */
+a:link {
+    /* Anything that is a link with a tag. */
+    color: goldenrod;
+}
+
+a:visited {
+    /* Once the a tag has been visited. */
+    color: gray;
+}
+
+a:hover {
+    /* When you hover over any a tag. */
+    color: tomato;
+}
+
+a:active {
+    /* When you hold down your click over any a tag. */
+    color: blueviolet;
+}
+
+/* You can appoly same properties on buttons as well */

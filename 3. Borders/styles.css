@@ -1,0 +1,24 @@
+p {
+    /* These are properties related to border */
+    /* border style could be dashed, dotted, solid etc */
+    border-style: solid;
+    /* thickness of the border */
+    border-width: 10px;
+    /* color of the border */
+    border-color: blueviolet;
+    /* rounding the cornors of the border */
+    border-radius: 5px;
+    /* space between the border and the inner content of the element */
+    padding: 10px;
+}
+
+h1 {
+    /* styling each side of the border */
+    border-top-style: dotted;
+    border-bottom-style: dashed;
+    border-left-style: groove;
+    border-right-style: solid;
+
+    /* Shorthand */
+    /* border: 10px solid blue; */
+}

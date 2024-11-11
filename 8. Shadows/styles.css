@@ -1,0 +1,15 @@
+h1 {
+    /* text-shadow: <x axis position> <y axis position> <spread> <shadow color>*/
+    /* x axis position = +ve(shadow goes right)
+    x axis position = -ve(shadow goes left)
+    y axis position = +ve(shadow goes up)
+    y axis position = +ve(shadow goes down)
+    spread = how much shadow is spread  */
+    text-shadow: 0px 7px 2px yellow;
+
+    /* Shadow that will appear around our element */
+    /* box-shadow: <x axis position> <y axis position> <spread> <shadow color>*/
+    box-shadow: 5px 4px 2px green;
+}
+
+/* You can also set multiple shadows */

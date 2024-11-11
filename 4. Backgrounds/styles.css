@@ -1,0 +1,17 @@
+body{
+    /* Backgrounds */
+    /* background color */
+    background-color: aqua;
+    /* setting linear gradient */
+    background: linear-gradient(skyblue, lightgreen);
+    /* repeating the background */
+    background-repeat: no-repeat;
+    /* streching the backgrund */
+    background-attachment: fixed;
+    /* adding background image */
+    background-image: url("background.jfif");
+    /* setting the position of the background */
+    background-position: center;
+    /* setting the size of the background */
+    background-size: cover; /* cover = cover the whole viewport */
+}

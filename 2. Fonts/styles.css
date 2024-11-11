@@ -1,0 +1,18 @@
+.header-styles {
+    /* local font */
+    font-family: "Courier New", Courier, monospace;
+}
+
+.para-styles {
+    /* font from fonts.google.com */
+    font-family: "Press Start 2P", system-ui;
+    /* Some other properties related to font */
+    /* Thickness of the font */
+    font-weight: 400;
+    /* italic or normal */
+    font-style: italic;
+    /* text decoration: dashed, dotted, underline etc*/
+    text-decoration: dotted underline;
+    /* size of the font */
+    font-size: 20px;
+}

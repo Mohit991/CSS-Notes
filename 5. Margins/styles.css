@@ -1,0 +1,33 @@
+body {
+    border: 5px solid black;
+}
+
+#box1 {
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 25px;
+    background-color: aquamarine;
+    padding: 25px;
+
+    /* margins */
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+
+    /* shorthand */
+    /* margin: 50px; 50px of margin will be applied to all four sides */
+    
+}
+
+#box2 {
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 25px;
+    background-color: lightcoral;
+
+    /* You can use percentages instead of pixels. This will be good when you resize the window. */
+    margin: 20px;
+}   
