@@ -125,20 +125,9 @@ We can use `https://fontawesome.com/` for free and good icons.
 ### CSS
 ![image](https://github.com/user-attachments/assets/14a7be84-2629-4f0c-a58a-3ca3c07876d6)
 
+## Animations
+### HTML
+![image](https://github.com/user-attachments/assets/d5503dc5-576b-4850-8f9d-86b2cf86cbcb)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### CSS
+![image](https://github.com/user-attachments/assets/f9cbb223-0e10-4dc5-975b-eb7acc0d56f3)
